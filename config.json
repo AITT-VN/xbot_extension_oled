@@ -1,6 +1,6 @@
 {
-    "name": "Sound Player",
-    "description": "Mục mở rộng sử dụng module Sound Player",
+    "name": "Màn hình OLED I2C",
+    "description": "Mục mở rộng của xbot cho màn hình OLED I2C",
     "libs": [
     ],
     "blocks": [
