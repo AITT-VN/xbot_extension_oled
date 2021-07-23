@@ -1,5 +1,5 @@
 <xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
-  <category name="OLED" colour="#27b0ba" icon="tv">
+  <category name="OLED" colour="#ff3399" icon="tv">
     <block type="oled_create"/>
     <block type="oled_text">
       <value name="TEXT"><shadow type="text"><field name="TEXT">hello</field></shadow></value>

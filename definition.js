@@ -28,7 +28,7 @@ Blockly.Blocks['oled_create'] = {
         ],
         previousStatement: null,
         nextStatement: null,
-        colour: "#27b0ba",
+        colour: "#ff3399",
         tooltip: "Khởi tạo màn hình OLED với chiều dài, chiều cao và địa chỉ được chọn",
         helpUrl: ""
       }
@@ -72,7 +72,7 @@ Blockly.Blocks['oled_text'] = {
         ],
         previousStatement: null,
         nextStatement: null,
-        colour: "#27b0ba",
+        colour: "#ff3399",
         tooltip: "In ra dòng chữ tại vị trí được chọn",
         helpUrl: ""
       }
@@ -98,7 +98,7 @@ Blockly.Blocks['oled_clear'] = {
         ],
         previousStatement: null,
         nextStatement: null,
-        colour: "#27b0ba",
+        colour: "#ff3399",
         tooltip: "Xóa toàn màn hình oled",
         helpUrl: ""
       }
